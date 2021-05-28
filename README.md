@@ -1,24 +1,3 @@
-# vue3-tmp3
+> Demonstrates using `he-tree-vue` in Vue 3 `<script setup>`
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://stackoverflow.com/q/67738867/6277151
